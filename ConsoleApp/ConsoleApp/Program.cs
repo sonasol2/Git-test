@@ -1,6 +1,4 @@
-﻿using static System.Net.Mime.MediaTypeNames;
-
-namespace ConsoleApp;
+﻿namespace ConsoleApp;
 class Program
 {
     static void Main(string[] args)
@@ -8,3 +6,4 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
+
