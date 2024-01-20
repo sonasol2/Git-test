@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{FEBCC246-EF92-462B-8179-A87CF3A06A8C}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ConsoleApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
