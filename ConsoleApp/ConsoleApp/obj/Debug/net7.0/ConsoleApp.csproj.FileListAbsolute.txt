@@ -1,0 +1,15 @@
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/sergejpopovic/Projects/Git-test/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
